@@ -1,4 +1,4 @@
-<img src='https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Ricardo_plc_Logo.svg/1920px-Ricardo_plc_Logo.svg.png' style='width:20%' href='https://www.ricardo.com/en'>
+<a href='https://www.ricardo.com/en'><img src='https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Ricardo_plc_Logo.svg/1920px-Ricardo_plc_Logo.svg.png' style='width:20%'></a>
 
 This is a professional account for use for private [Ricardo](https://www.ricardo.com/en) projects.
 
